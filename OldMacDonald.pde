@@ -1,4 +1,4 @@
-
+String mySound, myType, myName;
 public void setup()
 {
 	//your variable declarations and

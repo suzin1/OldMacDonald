@@ -1,8 +1,8 @@
 class Pig implements Animal 
 {     
      //your code here
-     private String getSound
-     private String getType
+     private String mySound;
+     private String myType;
      public Pig(String type, String sound){
        myType = type;
        mySound = sound;
